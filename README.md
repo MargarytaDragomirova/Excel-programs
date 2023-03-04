@@ -8,4 +8,5 @@ tkpandasnospaces - deletes white spaces in the cells of the selected spreadsheet
 To create app use PyInstaller:
 
 Windows: https://www.pythonguis.com/tutorials/packaging-pyqt5-pyside2-applications-windows-pyinstaller/
+
 macOS: https://www.pythonguis.com/tutorials/packaging-pyqt5-applications-pyinstaller-macos-dmg/
