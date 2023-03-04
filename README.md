@@ -5,6 +5,7 @@ pyqtnospaces - deletes white spaces in the cells of the selected spreadsheet and
 
 tkpandasnospaces - deletes white spaces in the cells of the selected spreadsheet and updates old file by using tkinter and pandas (works like a desktop app).
 
+
 To create app use PyInstaller:
 
 Windows: https://www.pythonguis.com/tutorials/packaging-pyqt5-pyside2-applications-windows-pyinstaller/
